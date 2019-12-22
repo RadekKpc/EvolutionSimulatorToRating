@@ -8,7 +8,8 @@ Projekt został wykonany na zajęcia z programowania obiektowego prowadzone na
 Akademii Górniczo-Hutniczej im. Stanisława Staszica w Krakowie na Wydziale 
 Informatyki,Elektroniki i Telekomiunikacji na keirunku Informatyka.
 #### Uruchomienie
-Klasa uruchamiająca program nazywa się "World" i znajduje się w folderze 'DarwinWorld'
+Klasa uruchamiająca program nazywa się "World" i znajduje się w folderze 'DarwinWorld'.
+W razie problemów w "out/artifacts" znajduje się wykonywalny plik projektu (w wersji przed dodaniem ładowania parametrów z pliku) z ustawionymi domyślnymi wartośćiami symulacji.
 #### Technologie
 Java 13 + Swing
 #### Twórcy
